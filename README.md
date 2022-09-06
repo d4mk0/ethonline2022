@@ -28,3 +28,7 @@ Links:
 
 Idiot ideas list:
 - ?
+
+Ideas inspiration:
+- Discord
+- Sponsor prizes reading
