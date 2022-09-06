@@ -2,8 +2,8 @@
 Some best project for submit to ethonline2022
 
 TODO:
-- Try signing EIP-712
-- Try 2FA
+- [ ] Try signing EIP-712
+- [ ] Try 2FA
 
 Tech stack:
 - Rails app
