@@ -28,7 +28,7 @@ Links:
 
 Idiot ideas list:
 - ?
-- Smart contract which can send assets/tokens from many slave wallets to one wallet by one transaction to master wallet/contract
+- Smart contract which can send assets/tokens from many slave wallets to one wallet by one transaction to master wallet/contract (many inflow, one outflow)
 - 
 
 Ideas inspiration:
