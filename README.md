@@ -2,7 +2,10 @@
 Some best project for submit to ethonline2022
 
 Current TODOs:
-- [ ] Check IN 6 Sep
+- [x] Check IN 1 6 Sep (Tue)
+- [ ] Check IN 2 13 Sep (Tue)
+- [ ] Check IN 3 20 Sep (Tue)
+- [ ] Project submission 25 Sep (Sun)
 
 Requirements TODO:
 - [ ] Smart Idea
@@ -21,3 +24,7 @@ Tech stack:
 
 Links:
 - [Dashboard](https://ethglobal.com/events/ethonline2022/home)
+- [Prizes](https://ethglobal.com/events/ethonline2022/prizes)
+
+Idiot ideas list:
+- ?
