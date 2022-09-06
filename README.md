@@ -25,7 +25,7 @@ Tech stack:
 Links:
 - [Dashboard](https://ethglobal.com/events/ethonline2022/home)
 - [Prizes](https://ethglobal.com/events/ethonline2022/prizes)
-- [Future hackathons](https://hackathons.filecoin.io/)
+- [Future hackathons (filecoin)](https://hackathons.filecoin.io/)
 
 Idiot ideas list:
 - ?
