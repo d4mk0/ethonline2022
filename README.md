@@ -30,7 +30,7 @@ Links:
 Idiot ideas list:
 - ?
 - Smart contract which can send assets/tokens from many slave wallets to one wallet by one transaction to master wallet/contract (many inflow, one outflow)
-- 
+- Airdrop farmers identifier. Caused by https://forum.gnosis-safe.io/t/community-challenge-identify-airdrop-farmers/847
 
 Ideas inspiration:
 - Discord
