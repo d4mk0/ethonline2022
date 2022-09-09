@@ -26,6 +26,8 @@ Links:
 - [Dashboard](https://ethglobal.com/events/ethonline2022/home)
 - [Prizes](https://ethglobal.com/events/ethonline2022/prizes)
 - [Future hackathons (filecoin)](https://hackathons.filecoin.io/)
+- [Events list (calendar)](https://ethglobal.com/events/ethonline2022/home)
+- [Sponsors & prizes](https://ethglobal.com/events/ethonline2022/prizes)
 
 Idiot ideas list:
 - ?
